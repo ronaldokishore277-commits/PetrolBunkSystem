@@ -1,12 +1,3 @@
 # Application screenshots
 
-Add genuine screenshots captured from the running application here.
-
-Recommended files:
-- 01-dashboard-initial.png
-- 02-shift-running.png
-- 03-tank-inventory.png
-- 04-end-of-shift.png
-- 05-database-tables.png
-
-Do not use mockups in place of actual application output.
+<img width="1565" height="956" alt="dashboard png" src="https://github.com/user-attachments/assets/3b01d905-8ae8-4cc5-85d5-4978b45c10b2" />
