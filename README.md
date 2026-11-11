@@ -175,19 +175,13 @@ SELECT * FROM shift_settlements ORDER BY settled_at DESC;
 
 ## Screenshots
 
-The `screenshots/` directory is reserved for genuine screenshots captured while running the application. Add these images before submitting the repository:
+### Application dashboard
 
-| Suggested filename | What to capture |
-|---|---|
-| `01-dashboard-initial.png` | Application dashboard before starting a shift |
-| `02-shift-running.png` | Dashboard while transactions are appearing |
-| `03-tank-inventory.png` | Petrol and Diesel tank gauges |
-| `04-end-of-shift.png` | End-of-shift settlement summary |
-| `05-database-tables.png` | MySQL Workbench showing saved rows |
+The project includes a genuine application dashboard screenshot:
 
-To capture on Windows, open the running application and press **Win + Shift + S**, select the relevant area, save the image using the filename above, and place it in `screenshots/`.
+![Petrol Bunk Management System Dashboard](screenshots/dashboard.png)
 
-**Important:** No application-output screenshots were included in the uploaded files, so this repository contains a screenshot checklist rather than fabricated screenshots. Capture the real running application output on your computer and add the images.
+Additional screenshots can be added to this folder when available, such as the running-shift transaction view, tank inventory, end-of-shift settlement and MySQL database records.
 
 ## Repository structure
 
@@ -201,7 +195,7 @@ PetrolBunkSystem/
 ├── database/
 │   └── petrol_bunk.sql
 ├── screenshots/
-│   └── README.md
+│   └── dashboard.png
 ├── .gitignore
 ├── pom.xml
 └── README.md
