@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.nb-gradle/
+nbproject/private/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets / configuration
+.env
+.env.*
+!.env.example
+*.local.properties
+
+# Logs
+*.log
