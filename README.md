@@ -177,11 +177,11 @@ SELECT * FROM shift_settlements ORDER BY settled_at DESC;
 
 ### Application dashboard
 
-The project includes a genuine application dashboard screenshot:
+The project includes a dashboard screenshot captured from the running application:
 
 ![Petrol Bunk Management System Dashboard](screenshots/dashboard.png)
 
-Additional screenshots can be added to this folder when available, such as the running-shift transaction view, tank inventory, end-of-shift settlement and MySQL database records.
+Additional genuine screenshots can be added to this folder when available, such as the running-shift transaction view, tank inventory, end-of-shift settlement and MySQL database records.
 
 ## Repository structure
 
