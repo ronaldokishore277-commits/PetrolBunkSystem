@@ -179,7 +179,7 @@ SELECT * FROM shift_settlements ORDER BY settled_at DESC;
 
 The project includes a dashboard screenshot captured from the running application:
 
-![Petrol Bunk Management System Dashboard](screenshots/dashboard.png)
+![Petrol Bunk Management System Dashboard](https://github.com/user-attachments/assets/3b01d905-8ae8-4cc5-85d5-4978b45c10b2)
 
 Additional genuine screenshots can be added to this folder when available, such as the running-shift transaction view, tank inventory, end-of-shift settlement and MySQL database records.
 
